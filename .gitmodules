@@ -1,0 +1,6 @@
+[submodule "third_party/nanoGPT"]
+	path = third_party/nanoGPT
+	url = https://github.com/karpathy/nanoGPT.git
+[submodule "third_party/minGPT"]
+	path = third_party/minGPT
+	url = https://github.com/karpathy/minGPT.git
